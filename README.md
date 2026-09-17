@@ -36,3 +36,7 @@ Each task focuses on writing clean, efficient, and understandable Python code.
 # Learning Outcomes:
 Through these tasks, I gained practical experience in translating programming problems into logical solutions, improving code efficiency, and applying Python concepts to real coding challenges.
 This practice also helped strengthen my foundation for **Data Science, Machine Learning, and technical programming assessments**.
+
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
+---
+**Thank you for visiting this repository!**
